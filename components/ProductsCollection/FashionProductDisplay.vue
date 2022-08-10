@@ -18,7 +18,7 @@
             </span>
         </div>
     </div>
-    <p>{{product.title.toString().substring(0, 30)}}....</p>
+    <p>{{product.title.toString().substring(0, 25)}}...</p>
     <p>
         <i class="bi bi-star"></i>
         <i class="bi bi-star"></i>
@@ -59,7 +59,7 @@ a {
 }
 
 .product-card {
-    height: 340px;
+    height: 330px;
     /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
     align-items: center;
     text-align: center;
@@ -73,9 +73,8 @@ a {
 }
 
 .product-card p {
-    margin-top: 10px;
+    margin-top: 5px;
     text-align: left;
-    margin-left: 10px;
 }
 
 .price {

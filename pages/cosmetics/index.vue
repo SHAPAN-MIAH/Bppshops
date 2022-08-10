@@ -3,6 +3,7 @@
     <div class="category-navbar">
         <Category-nav categoryName="Cosmetics" />
     </div>
+    <h1>Upcomming Cosmetics Product Collection  </h1>
 </div>
 </template>
 
@@ -13,18 +14,11 @@ export default {
 </script>
 
 <style scoped>
-.category-nav {
-    width: 100%;
-    background: #EF8341;
+h1{
+    padding-top: 220px;
     text-align: center;
     font-family: "Rajdhani", sans-serif;
-    color: #fff;
-    position: fixed;
-    margin-top: 155px;
-}
-
-.category-nav h2 {
-    font-weight: 500;
-    padding: 5px 0px;
+    padding-bottom: 100vh;
+    color: gray;
 }
 </style>

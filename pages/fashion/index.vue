@@ -55,5 +55,13 @@ export default {
     grid-template-columns: repeat(5, 1fr);
     grid-gap: 30px;
 }
+
+@media only screen and (max-width: 576px) {
+    .product-content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 30px;
+}
+}
 </style>
 

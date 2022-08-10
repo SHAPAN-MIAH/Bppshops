@@ -3,6 +3,7 @@
     <div class="category-navbar">
         <Category-nav categoryName="BabyCare" />
     </div>
+    <h1>Upcomming Baby Care Product Collection  </h1>
 </div>
 </template>
 
@@ -13,5 +14,11 @@ export default {
 </script>
 
 <style scoped>
-
+h1{
+    padding-top: 220px;
+    text-align: center;
+    font-family: "Rajdhani", sans-serif;
+    padding-bottom: 100vh;
+    color: gray;
+}
 </style>

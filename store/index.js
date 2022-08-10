@@ -6,8 +6,10 @@ export const state = () => ({
   products: [],
   cart: [],
   wishList: [],
+  userComment: []
 });
 
+// console.log(state.userComment)
 
 // getters.........
 export const getters = {
@@ -43,6 +45,16 @@ export const getters = {
     });
 
     return wishListQuantityCount;
+  },
+
+  commentItemCount: (state) => {
+    let commentQuantityCount = 0;
+
+    state.userComment.forEach((item) => {
+      commentQuantityCount += item.quantity;
+    });
+
+    return commentQuantityCount;
   },
 };
 
@@ -82,6 +94,10 @@ export const actions = {
 
   clearWishList({commit}) {
     commit("CLEAR_WISHLIST");
+  },
+
+  addCommentData({commit}, {CommentData, quantity}){
+    commit("ADD_COMMENT_DATA", {CommentData, quantity})
   }
 };
 
@@ -94,6 +110,10 @@ export const mutations = {
   SET_PRODUCT(state, product) {
     state.product = product;
   },
+  
+  ADD_COMMENT_DATA(state, {CommentData, quantity}) {
+    state.userComment.push({CommentData, quantity})
+  }, 
 
   ADD_TO_CART(state, { product, quantity }) {
     let productInCart = state.cart.find((item) => {
@@ -134,6 +154,5 @@ export const mutations = {
   CLEAR_WISHLIST(state) {
     state.wishList = [];
   },
-
 
 };

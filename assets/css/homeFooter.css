@@ -10,9 +10,10 @@
 }
 
 .footer-content-container {
-    margin: 0px 70px;
+    margin: 0px 52px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
 }
 
 .ft-section1 img {
@@ -111,7 +112,7 @@
     background: transparent;
     color: #fff;
     outline: none;
-    padding: 12px 40px;
+    padding: 12px 45px;
     text-transform: uppercase;
     position: relative;
     overflow: hidden;
@@ -208,7 +209,7 @@
 
 /* paywith-container-icons css*/
 .paywithContainer {
-    width: 94%;
+    width: 95%;
     border-radius: 10px;
 
 }

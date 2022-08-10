@@ -20,14 +20,20 @@
 
     <nuxt-link :to="`/fashion/${$route.params.id}/productReview`">
         <li>
-            Review <span class="review-count">2</span>
+            Review <span class="review-count">{{commentItemCount}}</span>
         </li>
     </nuxt-link>
 </ul>
 </template>
 
 <script>
-export default {}
+export default {
+    computed: {
+        commentItemCount() {
+            return this.$store.getters.commentItemCount
+        }
+    },
+}
 </script>
 
 <style scoped>
