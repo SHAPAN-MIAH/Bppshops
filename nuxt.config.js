@@ -88,7 +88,7 @@ pwa: {
 build: {
   command: 'npm run build',
   commandOrigin: 'ui',
-  publish: '/opt/build/repo/dist',
+  publish: '~/build/repo/dist',
   publishOrigin: 'ui'
 }
 }

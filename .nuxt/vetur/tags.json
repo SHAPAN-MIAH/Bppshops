@@ -1,0 +1,56 @@
+{
+  "Home": {
+    "description": "Auto imported from components/Home/Home.vue"
+  },
+  "HomeCart": {
+    "description": "Auto imported from components/Home/HomeCart.vue"
+  },
+  "HomeFooter": {
+    "description": "Auto imported from components/Home/HomeFooter.vue"
+  },
+  "ProductDescription": {
+    "description": "Auto imported from components/ProductDescripSpecifcReview/ProductDescription.vue"
+  },
+  "ProductDesReviewMenuBar": {
+    "description": "Auto imported from components/ProductDescripSpecifcReview/ProductDesReviewMenuBar.vue"
+  },
+  "ProductReview": {
+    "description": "Auto imported from components/ProductDescripSpecifcReview/ProductReview.vue"
+  },
+  "ProductSellerDetails": {
+    "description": "Auto imported from components/ProductDescripSpecifcReview/ProductSellerDetails.vue"
+  },
+  "ProductSpecification": {
+    "description": "Auto imported from components/ProductDescripSpecifcReview/ProductSpecification.vue"
+  },
+  "ProductsCollectionFashionProductDisplay": {
+    "description": "Auto imported from components/ProductsCollection/FashionProductDisplay.vue"
+  },
+  "ProductsCollectionProductCard": {
+    "description": "Auto imported from components/ProductsCollection/ProductCard.vue"
+  },
+  "ProductsDisplay": {
+    "description": "Auto imported from components/ProductsCollection/ProductsDisplay.vue"
+  },
+  "SharedComponentCartView": {
+    "description": "Auto imported from components/SharedComponent/cartView.vue"
+  },
+  "SharedComponentCategoryNav": {
+    "description": "Auto imported from components/SharedComponent/categoryNav.vue"
+  },
+  "SharedComponentCategorySlider": {
+    "description": "Auto imported from components/SharedComponent/categorySlider.vue"
+  },
+  "SharedComponentFooter": {
+    "description": "Auto imported from components/SharedComponent/footer.vue"
+  },
+  "SharedComponentNav": {
+    "description": "Auto imported from components/SharedComponent/Nav.vue"
+  },
+  "SharedComponentSidebar": {
+    "description": "Auto imported from components/SharedComponent/sidebar.vue"
+  },
+  "SharedComponentWishList": {
+    "description": "Auto imported from components/SharedComponent/wishList.vue"
+  }
+}

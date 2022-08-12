@@ -1,0 +1,149 @@
+[
+  {
+    "name": "babyCare",
+    "path": "/babyCare",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\babyCare\\\\index.vue",
+    "chunkName": "pages/babyCare/index"
+  },
+  {
+    "name": "cosmetics",
+    "path": "/cosmetics",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\cosmetics\\\\index.vue",
+    "chunkName": "pages/cosmetics/index"
+  },
+  {
+    "name": "electronics",
+    "path": "/electronics",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\electronics\\\\index.vue",
+    "chunkName": "pages/electronics/index"
+  },
+  {
+    "name": "fashion",
+    "path": "/fashion",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\index.vue",
+    "chunkName": "pages/fashion/index"
+  },
+  {
+    "name": "furniture",
+    "path": "/furniture",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\furniture\\\\index.vue",
+    "chunkName": "pages/furniture/index"
+  },
+  {
+    "name": "grocery",
+    "path": "/grocery",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\index.vue",
+    "chunkName": "pages/grocery/index"
+  },
+  {
+    "name": "islamic",
+    "path": "/islamic",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\index.vue",
+    "chunkName": "pages/islamic/index"
+  },
+  {
+    "name": "shoes",
+    "path": "/shoes",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\shoes\\\\index.vue",
+    "chunkName": "pages/shoes/index"
+  },
+  {
+    "path": "/fashion/:id",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id.vue",
+    "chunkName": "pages/fashion/_id",
+    "children": [
+      {
+        "name": "fashion-id",
+        "path": "",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\index.vue",
+        "chunkName": "pages/fashion/_id/index"
+      },
+      {
+        "name": "fashion-id-productReview",
+        "path": "productReview",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productReview.vue",
+        "chunkName": "pages/fashion/_id/productReview"
+      },
+      {
+        "name": "fashion-id-productSellerDetails",
+        "path": "productSellerDetails",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productSellerDetails.vue",
+        "chunkName": "pages/fashion/_id/productSellerDetails"
+      },
+      {
+        "name": "fashion-id-productSpecification",
+        "path": "productSpecification",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productSpecification.vue",
+        "chunkName": "pages/fashion/_id/productSpecification"
+      }
+    ]
+  },
+  {
+    "path": "/grocery/:id",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id.vue",
+    "chunkName": "pages/grocery/_id",
+    "children": [
+      {
+        "name": "grocery-id",
+        "path": "",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\index.vue",
+        "chunkName": "pages/grocery/_id/index"
+      },
+      {
+        "name": "grocery-id-productReview",
+        "path": "productReview",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productReview.vue",
+        "chunkName": "pages/grocery/_id/productReview"
+      },
+      {
+        "name": "grocery-id-productSellerDetails",
+        "path": "productSellerDetails",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productSellerDetails.vue",
+        "chunkName": "pages/grocery/_id/productSellerDetails"
+      },
+      {
+        "name": "grocery-id-productSpecification",
+        "path": "productSpecification",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productSpecification.vue",
+        "chunkName": "pages/grocery/_id/productSpecification"
+      }
+    ]
+  },
+  {
+    "path": "/islamic/:id",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id.vue",
+    "chunkName": "pages/islamic/_id",
+    "children": [
+      {
+        "name": "islamic-id",
+        "path": "",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\index.vue",
+        "chunkName": "pages/islamic/_id/index"
+      },
+      {
+        "name": "islamic-id-productReview",
+        "path": "productReview",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productReview.vue",
+        "chunkName": "pages/islamic/_id/productReview"
+      },
+      {
+        "name": "islamic-id-productSellerDetails",
+        "path": "productSellerDetails",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productSellerDetails.vue",
+        "chunkName": "pages/islamic/_id/productSellerDetails"
+      },
+      {
+        "name": "islamic-id-productSpecification",
+        "path": "productSpecification",
+        "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productSpecification.vue",
+        "chunkName": "pages/islamic/_id/productSpecification"
+      }
+    ]
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
