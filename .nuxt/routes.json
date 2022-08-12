@@ -3,49 +3,57 @@
     "name": "babyCare",
     "path": "/babyCare",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\babyCare\\\\index.vue",
-    "chunkName": "pages/babyCare/index"
+    "chunkName": "pages/babyCare/index",
+    "_name": "_7cdac093"
   },
   {
     "name": "cosmetics",
     "path": "/cosmetics",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\cosmetics\\\\index.vue",
-    "chunkName": "pages/cosmetics/index"
+    "chunkName": "pages/cosmetics/index",
+    "_name": "_7f50cdd6"
   },
   {
     "name": "electronics",
     "path": "/electronics",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\electronics\\\\index.vue",
-    "chunkName": "pages/electronics/index"
+    "chunkName": "pages/electronics/index",
+    "_name": "_cb4bfbfa"
   },
   {
     "name": "fashion",
     "path": "/fashion",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\index.vue",
-    "chunkName": "pages/fashion/index"
+    "chunkName": "pages/fashion/index",
+    "_name": "_0b015722"
   },
   {
     "name": "furniture",
     "path": "/furniture",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\furniture\\\\index.vue",
-    "chunkName": "pages/furniture/index"
+    "chunkName": "pages/furniture/index",
+    "_name": "_3eefd8a8"
   },
   {
     "name": "grocery",
     "path": "/grocery",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\index.vue",
-    "chunkName": "pages/grocery/index"
+    "chunkName": "pages/grocery/index",
+    "_name": "_7bfe74ad"
   },
   {
     "name": "islamic",
     "path": "/islamic",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\index.vue",
-    "chunkName": "pages/islamic/index"
+    "chunkName": "pages/islamic/index",
+    "_name": "_006e8512"
   },
   {
     "name": "shoes",
     "path": "/shoes",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\shoes\\\\index.vue",
-    "chunkName": "pages/shoes/index"
+    "chunkName": "pages/shoes/index",
+    "_name": "_4daf601c"
   },
   {
     "path": "/fashion/:id",
@@ -56,27 +64,32 @@
         "name": "fashion-id",
         "path": "",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\index.vue",
-        "chunkName": "pages/fashion/_id/index"
+        "chunkName": "pages/fashion/_id/index",
+        "_name": "_5e1a1b38"
       },
       {
         "name": "fashion-id-productReview",
         "path": "productReview",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productReview.vue",
-        "chunkName": "pages/fashion/_id/productReview"
+        "chunkName": "pages/fashion/_id/productReview",
+        "_name": "_f837d9e6"
       },
       {
         "name": "fashion-id-productSellerDetails",
         "path": "productSellerDetails",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productSellerDetails.vue",
-        "chunkName": "pages/fashion/_id/productSellerDetails"
+        "chunkName": "pages/fashion/_id/productSellerDetails",
+        "_name": "_2dbb571e"
       },
       {
         "name": "fashion-id-productSpecification",
         "path": "productSpecification",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\fashion\\\\_id\\\\productSpecification.vue",
-        "chunkName": "pages/fashion/_id/productSpecification"
+        "chunkName": "pages/fashion/_id/productSpecification",
+        "_name": "_2ce15a5e"
       }
-    ]
+    ],
+    "_name": "_57deba0a"
   },
   {
     "path": "/grocery/:id",
@@ -87,27 +100,32 @@
         "name": "grocery-id",
         "path": "",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\index.vue",
-        "chunkName": "pages/grocery/_id/index"
+        "chunkName": "pages/grocery/_id/index",
+        "_name": "_6cf8bc8d"
       },
       {
         "name": "grocery-id-productReview",
         "path": "productReview",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productReview.vue",
-        "chunkName": "pages/grocery/_id/productReview"
+        "chunkName": "pages/grocery/_id/productReview",
+        "_name": "_194a8f62"
       },
       {
         "name": "grocery-id-productSellerDetails",
         "path": "productSellerDetails",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productSellerDetails.vue",
-        "chunkName": "pages/grocery/_id/productSellerDetails"
+        "chunkName": "pages/grocery/_id/productSellerDetails",
+        "_name": "_69154129"
       },
       {
         "name": "grocery-id-productSpecification",
         "path": "productSpecification",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\grocery\\\\_id\\\\productSpecification.vue",
-        "chunkName": "pages/grocery/_id/productSpecification"
+        "chunkName": "pages/grocery/_id/productSpecification",
+        "_name": "_683b4469"
       }
-    ]
+    ],
+    "_name": "_200bbe55"
   },
   {
     "path": "/islamic/:id",
@@ -118,32 +136,38 @@
         "name": "islamic-id",
         "path": "",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\index.vue",
-        "chunkName": "pages/islamic/_id/index"
+        "chunkName": "pages/islamic/_id/index",
+        "_name": "_286c2348"
       },
       {
         "name": "islamic-id-productReview",
         "path": "productReview",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productReview.vue",
-        "chunkName": "pages/islamic/_id/productReview"
+        "chunkName": "pages/islamic/_id/productReview",
+        "_name": "_43f50b1d"
       },
       {
         "name": "islamic-id-productSellerDetails",
         "path": "productSellerDetails",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productSellerDetails.vue",
-        "chunkName": "pages/islamic/_id/productSellerDetails"
+        "chunkName": "pages/islamic/_id/productSellerDetails",
+        "_name": "_4593a5e4"
       },
       {
         "name": "islamic-id-productSpecification",
         "path": "productSpecification",
         "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\islamic\\\\_id\\\\productSpecification.vue",
-        "chunkName": "pages/islamic/_id/productSpecification"
+        "chunkName": "pages/islamic/_id/productSpecification",
+        "_name": "_47479f64"
       }
-    ]
+    ],
+    "_name": "_84c2b80c"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\New_folder\\\\BppShops\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_5089a37a"
   }
 ]
